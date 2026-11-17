@@ -32,8 +32,8 @@ not yet
 
 Use this cheat sheet for various SQL commands and their syntax, descriptions, and examples.
 
-![image-20261117144805693](C:\Users\Yifu Wei\AppData\Roaming\Typora\typora-user-images\image-20261117144805693.png)
+![Screenshot 2026-11-17 144830](..\images\Screenshot 2026-11-17 144830.png)
 
-![image-20261117144822600](C:\Users\Yifu Wei\AppData\Roaming\Typora\typora-user-images\image-20261117144822600.png)
+![Screenshot 2026-11-17 144803](..\images\Screenshot 2026-11-17 144803.png)
 
-![image-20261117144832689](C:\Users\Yifu Wei\AppData\Roaming\Typora\typora-user-images\image-20261117144832689.png)
+![Screenshot 2026-11-17 144821](..\images\Screenshot 2026-11-17 144821.png)
