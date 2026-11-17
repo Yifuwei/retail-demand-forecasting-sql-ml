@@ -29,3 +29,11 @@ not yet
 ### Next Steps
 - Learn relational database concepts
 - Explore the M5 dataset
+
+Use this cheat sheet for various SQL commands and their syntax, descriptions, and examples.
+
+![image-20261117144805693](C:\Users\Yifu Wei\AppData\Roaming\Typora\typora-user-images\image-20261117144805693.png)
+
+![image-20261117144822600](C:\Users\Yifu Wei\AppData\Roaming\Typora\typora-user-images\image-20261117144822600.png)
+
+![image-20261117144832689](C:\Users\Yifu Wei\AppData\Roaming\Typora\typora-user-images\image-20261117144832689.png)
